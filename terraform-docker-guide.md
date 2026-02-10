@@ -41,8 +41,9 @@ docker ps
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 
 ```
-There are no running containers.
+
 ---
+There are no running containers.
 
 # Action 1: Create a working directory
 
